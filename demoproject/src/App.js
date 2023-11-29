@@ -1,7 +1,11 @@
+import Youtube from "./Youtube";
 
 function App() {
   return (
-    <p>firt App</p>
+    <>
+      <h1>Classic React App</h1>
+      <Youtube />
+    </>
   );
 }
 
